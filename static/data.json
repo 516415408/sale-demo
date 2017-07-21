@@ -1,0 +1,97 @@
+{
+  "boardList": [
+        {
+          "title": "开放产品",
+          "description": "开放产品是一款开放产品",
+          "id": "car",
+          "toKey": "analysis",
+          "saleout": false
+        },
+        {
+          "title": "品牌营销",
+          "description": "品牌营销帮助你的产品更好地找到定位",
+          "id": "earth",
+          "toKey": "count",
+          "saleout": false
+        },
+        {
+          "title": "使命必达",
+          "description": "使命必达快速迭代永远保持最前端的速度",
+          "id": "loud",
+          "toKey": "forecast",
+          "saleout": true
+        },
+        {
+          "title": "勇攀高峰",
+          "description": "帮你勇闯高峰，到达事业的顶峰",
+          "id": "mountain",
+          "toKey": "publish",
+          "saleout": false
+        }
+      ],
+  "newsList": [
+    {
+      "name": "长征五号发射失败的锅该让互联网公司背吗?",
+      "url": "http://youdao.com"
+    },
+    {
+      "name": "小米空调曝光，董小姐你怕了吗?",
+      "url": "http://im.qq.com"
+    },
+    {
+      "name": "300元1小时的周杰伦网吧",
+      "url": "http://map.baidu.com"
+    },
+    {
+      "name": "迷你KTV是门“害羞经济”",
+      "url": "http://http://www.iqiyi.com/"
+    }
+  ],
+  "productList": {
+    "pc": {
+      "title": "PC应用类",
+      "list": [
+        {
+          "name": "有道词典",
+          "url": "http://youdao.com"
+        },
+        {
+          "name": "腾讯QQ",
+          "url": "http://im.qq.com",
+          "hot": true
+        },
+        {
+          "name": "百度地图",
+          "url": "http://map.baidu.com"
+        },
+        {
+          "name": "爱奇艺",
+          "url": "http://http://www.iqiyi.com/"
+        }
+    ]
+    },
+    "app": {
+      "title": "手机应用类",
+      "list": [
+        {
+          "name": "微信",
+          "url": "http://weixin.qq.com",
+          "hot": true
+        },
+        {
+          "name": "手机QQ",
+          "url": "http://im.qq.com/mobileqq",
+          "hot": true
+        },
+        {
+          "name": "淘宝网",
+          "url": "http://m.taoba.com"
+        },
+        {
+          "name": "手机百度",
+          "url": "http://shouji.baidu.com/software/11581131.html"
+        }
+    ]
+    }
+  }
+}
